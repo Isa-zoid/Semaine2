@@ -1,0 +1,17 @@
+header{
+background-color: rgb(247, 122, 191);
+color: rgb(255, 255, 255);
+}
+
+h1{
+font-weight: bold;
+}
+
+h2{
+}
+
+.produit{
+        display: inline;
+        width: 10em;
+        padding: 5em;
+}
