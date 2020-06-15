@@ -1,0 +1,24 @@
+h1{
+    color: rgb(255, 255, 255);
+    background-color: rgb(7, 110, 102);
+}
+h2{
+    text-decoration: underline rgb(224, 55, 89);
+    text-indent: 1em;
+}
+.txt1{
+    text-indent: 2em;
+}
+h3{
+    padding: 1em;
+    text-indent: 2em;
+}
+.txt2{
+    color: darkred;
+    text-indent: 4em;
+}
+.bleu{
+    color: darkturquoise;
+    font-weight: bold;
+}
+

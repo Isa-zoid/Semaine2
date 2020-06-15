@@ -1,0 +1,30 @@
+h1
+{color: red;
+text-decoration: underline;}
+
+.p1
+{font-style: italic;
+width : 400px;
+text-indent: 40px;
+}
+
+.encadré
+{
+    border: 1px solid black;
+}
+
+.txt1
+{padding: 100px;
+}
+
+.vert
+{
+background-color: lawngreen;
+color: rgb(255, 255, 255);
+text-align: center;
+font-size: 2em;
+padding: 20px;
+font-weight: bolder;
+}
+
+
