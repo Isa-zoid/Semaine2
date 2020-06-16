@@ -1,17 +1,45 @@
 header{
-background-color: rgb(247, 122, 191);
-color: rgb(255, 255, 255);
+background-color: rgb(253, 128, 255);
+color: rgb(255, 254, 225);
+font-family: fantasy;
+padding: 1em;
 }
-
+body{background-color: rgb(255, 254, 225);
+}
 h1{
 font-weight: bold;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+color: rgb(240, 83, 189);
+font-size: 30px;
+margin: 16px;
 }
-
-h2{
+h2{font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+font-size: 25px;
+color: rgb(117, 247, 83);
+margin: 16px;
 }
-
-.produit{
-        display: inline;
-        width: 10em;
+p{font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        text-align: center;
+        border-top: inset;
+        color: rgb(240, 83, 189);
+}
+.produit{display: inline-block;
+        margin: 1em;
+        height: 200px;
+        width: 300px;
+}
+img {max-height: 12em;
+        width: auto;
+        display: inline-block;
+}
+aside {display: inline-block;
+        padding: 3em;
+}
+.comment{font-family: fantasy;
         padding: 5em;
+        width: 5em;
+}
+.engagement{font-family: fantasy;
+}
+.respect{font-family: fantasy;
 }
